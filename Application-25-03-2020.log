@@ -1,0 +1,12 @@
+-----------------------------------------------------------------------------------------------------------------
+2020 M03 25, Wed 17:16:14 GMT
+APP_DELEGATE. Activate app with silent push notification: 
+{
+    "_" = "946dbb8e-d1dd-4687-b54e-214f707b5bcb";
+    aps =     {
+        "content-available" = 1;
+    };
+    key = value;
+    "silent_notification" = 1;
+}
+
